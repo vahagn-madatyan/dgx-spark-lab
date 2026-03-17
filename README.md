@@ -2,6 +2,8 @@
 
 Hands-on machine learning lab built around the NVIDIA DGX Spark (GB10 Grace Blackwell). Training, fine-tuning, and deploying models locally — from first boot to production deployment pipelines.
 
+> **Try it on Perplexity Computer:** [NVIDIA AI Certification Study](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread)
+
 ## What This Is
 
 A structured, progressive curriculum for getting real hands-on experience with the DGX Spark. Each phase builds on the last, covering infrastructure setup, inference, fine-tuning, custom model training, and multi-node scaling.
